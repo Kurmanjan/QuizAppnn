@@ -4,7 +4,7 @@
     <data>
         <variable
             name="handlers"
-            type="kg.nurzhamal.quizapp.core.OnPopupMenuClickListener" />
+            type="kg.kurmanjan.quizapp.core.OnPopupMenuClickListener" />
 
     </data>
 <LinearLayout
